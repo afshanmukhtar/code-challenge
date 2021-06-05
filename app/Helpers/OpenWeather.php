@@ -1,12 +1,10 @@
 <?php
 
 /**
- * OpenWeather Helper Class to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services easily.
- *
- * @author   Jagdish-J-p <jagdish1230@gmail.com>
- * @version  dev-master
- * @since    2021-06-04
- */
+ * OpenWeather Helper Class to connect Open Weather
+ * Map APIs ( https://openweathermap.org/api ) and 
+ * access free API services easily.
+ **/
 
 namespace App\Helpers;
 
